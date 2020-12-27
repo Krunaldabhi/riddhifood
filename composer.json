@@ -5,7 +5,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=7.4.2",
+        "php": ">=7.2.24",
         "aloha/twilio": "^3.0",
         "anlutro/l4-settings": "^0.5.0",
         "davibennun/laravel-push-notification": "dev-laravel5",
